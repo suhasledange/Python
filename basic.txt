@@ -1,6 +1,0 @@
-shEIBMaster.sh
-MDD_30_abc.sh [STARTED]
-MDD_30_abc.sh [FINISHED]
-xyz.sh
-efg.sh
-pqr.sh
